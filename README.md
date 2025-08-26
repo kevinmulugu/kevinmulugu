@@ -3,12 +3,11 @@ Login: kevinmulugu               Name: Kevin Mulugu
 Directory: /home/kevin           Shell: /bin/zsh
 On since Aug 2015                From Nairobi, Kenya
 Project:
-  Software engineer exploring cloud-native systems.  
-  Working with Go, Node.js, Next.js, and Flutter.  
-  Interested in distributed systems, Kubernetes, and DevOps practices.  
-  Some personal projects live here; more thoughts at  
-  [x.com/kevinmulugu](https://x.com/kevinmulugu)
-
+Software engineer exploring cloud-native systems.  
+Working with Go, Node.js, Next.js, and Flutter.  
+Interested in distributed systems, Kubernetes, and DevOps practices.  
+Some personal projects live here; more thoughts at  
+[x.com/kevinmulugu](https://x.com/kevinmulugu)
 No Plan.
 
 ---
